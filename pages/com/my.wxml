@@ -1,0 +1,2 @@
+<!--pages/com/my.wxml-->
+<view bindtap="tap">hello {{msg}} </view>

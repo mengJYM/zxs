@@ -1,0 +1,18 @@
+.input{
+  width:750rpx;
+  height:80rpx;
+  background:#03bbd5;
+  display:flex;
+}
+.input view{
+  color:#fff;
+  padding-left:20rpx;
+}
+.input input{
+  background:#fff;
+  height:65rpx;
+  border-radius: 15rpx;
+  width:600rpx;
+  margin-left:10rpx;
+  padding-left:20rpx;
+}

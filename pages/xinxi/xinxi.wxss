@@ -1,0 +1,17 @@
+.seladdress{
+  display:flex;
+  line-height:80rpx;
+  border-bottom: 1px solid #ccc;
+}
+.seladdress label{
+    width:220rpx;
+    text-align: center;
+}
+.seladdress input{
+    margin-top:10px;
+}
+button{
+  background:#ff9700;
+  margin-top:15rpx;
+  border-radius: 15rpx;
+}
